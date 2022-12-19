@@ -5,7 +5,7 @@
   "name": "Extended Flywheels",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "Rabbitminers"
   ],
   "contact": {
     "sources": "https://github.com/Fabricators-of-Create/create-fabric-addon-template"
@@ -24,7 +24,7 @@
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": ">=${fabric_version}",
-    "create": ">=${create_version}+${minecraft_version}",
+    "flywheel": "*",
     "minecraft": ">=${minecraft_version}",
     "java": ">=${java_version}"
   }
