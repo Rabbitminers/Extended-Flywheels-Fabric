@@ -2,7 +2,7 @@
 {
     "parent": "extendedflywheels:block/acaciaflywheel/flywheel",
     "loader": "forge:obj",
-    "flip-v": true,
+    "flip_v": true,
     "model": "extendedflywheels:models/block/common/flywheel.obj",
     "display": {
         "gui": {

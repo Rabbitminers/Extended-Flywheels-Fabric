@@ -2,6 +2,6 @@
 {
     "parent": "extendedflywheels:block/largejungleflywheel/flywheel",
     "loader": "forge:obj",
-    "flip-v": true,
+    "flip_v": true,
     "model": "extendedflywheels:models/block/common/large_flywheel_3.obj"
 }
