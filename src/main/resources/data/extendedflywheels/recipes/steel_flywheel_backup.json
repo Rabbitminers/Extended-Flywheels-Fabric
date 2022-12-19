@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "extendedflywheels:ironflywheel"
+  },
+  "result": "extendedflywheels:steelflywheel",
+  "experience": 0.1,
+  "cookingtime": 100
+}

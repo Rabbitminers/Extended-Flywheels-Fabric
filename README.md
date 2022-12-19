@@ -10,7 +10,7 @@ IDE that you are using.
 
 Once done, this template needs a bit of setup before it's ready:
 - change entries in the `fabric.mod.json` file
-- rename all instances of `modid` in files and file names with your mod ID,
+- rename all instances of `extendedflywheels` in files and file names with your mod ID,
 a unique identifier for your mod.
 - replace the default icon
 - change your mod package

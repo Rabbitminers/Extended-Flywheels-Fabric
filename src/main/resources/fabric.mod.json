@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "extendedflywheels",
   "version": "${version}",
-  "name": "Example Mod",
+  "name": "Extended Flywheels",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "Me!"
@@ -11,20 +11,20 @@
     "sources": "https://github.com/Fabricators-of-Create/create-fabric-addon-template"
   },
   "license": "CC0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/extendedflywheels/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.modid.ExampleMod"
+      "com.rabbitminers.extendedflywheels.ExtendedFlywheels"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "extendedflywheels.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": ">=${fabric_version}",
-    "create": ">=${create_version}",
+    "create": ">=${create_version}+${minecraft_version}",
     "minecraft": ">=${minecraft_version}",
     "java": ">=${java_version}"
   }
