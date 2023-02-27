@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "C",
-    "A",
-    "C"
+    "CCC",
+    "CAC",
+    "CCC"
   ],
   "key": {
     "C": {
-      "tag": "forge:ingots/brass"
+      "tag": "c:brass_ingots"
     },
     "A": {
       "item": "create:shaft"
